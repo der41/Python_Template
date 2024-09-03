@@ -1,5 +1,5 @@
 [![CI](https://github.com/nogibjj/Diego_Rodriguez_Miniproject1/actions/workflows/hello.yml/badge.svg)](https://github.com/nogibjj/Diego_Rodriguez_Miniproject1/actions/workflows/hello.yml)
-# Python Templates
+# Python Template
 This is a template that has the scaffold for a python project. Here you can find:
 
 - .devcointainer has a Docker and a .json file
